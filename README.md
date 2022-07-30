@@ -1,11 +1,12 @@
 
 # Egypt-FWD/Udacity Machine Learning Cross-Skilling Nanodegree Program (Finding Donors for CharityML)
+
 ### Table of Contents
 
 -   [Description](#description)
 -   [Software and Libraries](#softnlibs)
 -   [PROJECT SPECIFICATION](#specs)
--   [Additional Features](#additional-features)
+-   [Additional Features](#addfeat)
 
 ### [](#description)Description
 
@@ -29,7 +30,7 @@ This project uses the following software and Python libraries:
 4.  Improving Results
 5.  Feature Importance
 
-#### [](#additional-features)Additional Features
+#### [](#addfeat)Additional Features
 
 -   Conduct independent and thorough Univariate Analysis, Bivariate analysis, and Multivariate Analysis.
 -   submit for competetion
