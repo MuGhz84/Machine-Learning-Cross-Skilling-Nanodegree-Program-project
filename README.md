@@ -5,6 +5,7 @@
 -   [Description](https://github.com/MuGhz84/CST-project#description)
 -   [Software and Libraries](https://github.com/MuGhz84/CST-project#softnlibs)
 -   [PROJECT SPECIFICATION](https://github.com/MuGhz84/CST-project#specs)
+-   [Additional Features](https://github.com/MuGhz84/CST-project#additional-features)
 
 ### [](https://github.com/MuGhz84/CST-project#description)Description
 
